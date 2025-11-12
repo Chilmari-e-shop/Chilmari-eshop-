@@ -1,0 +1,5 @@
+{
+  "name": "Chilmari AI",
+  "description": "A high-class, ultra-fast multi-agent AI chat web application built with React and Tailwind CSS, allowing users to converse with different AI agents like H2O GPT and BLOOM in a modern, ChatGPT-style interface.",
+  "requestFramePermissions": []
+}
